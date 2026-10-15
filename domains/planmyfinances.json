@@ -1,0 +1,14 @@
+
+{
+    "owner": {
+        "username": "abhithk",
+        "email": "k.abhith@gmail.com"
+    },
+    "record": {
+        "CNAME": "budgetplanner-byabhith.netlify.app",
+        "TXT": [
+            "resend-verification=abcdef123456789...",
+            "v=spf1 include:amazonses.com ~all"
+        ]
+    }
+}
